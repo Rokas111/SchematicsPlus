@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SchematicsPlus:jar">
+    <output-path>$PROJECT_DIR$/../HoodPVP/plugins</output-path>
+    <root id="archive" name="SchematicsPlus.jar">
+      <element id="module-output" name="SchematicsPlus" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+name: SchematicsPlus
+main: schematicplus.core.main
+version: 1.2
+author: Xocky
+depend: [WorldEdit]
+softdepend: [Vault,WorldGuard]
+commands:
